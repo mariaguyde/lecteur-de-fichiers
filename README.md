@@ -1,7 +1,7 @@
 # Lecteur de fichiers en Java 
 
 Le mini-projet consistait à coder un lecteur de fichier en Java capable de lire les fichiers dans la console une fois qu'on les a choisi. 
-Il faut l'afficher dans le bon sens, à l'envers en termes de lignes et de manière palindromique. 
+Il faut l'afficher dans le bon sens, à l'envers en termes de lignes et de manière palindromique. Et j'ai également pu faire une comparaison entre deux fichiers. 
 
 On a différentes classes pour : 
 
